@@ -1,3 +1,4 @@
+# password zip automator
 
 Finderの右クリックメニューから、選択したファイル・フォルダをパスワード付きzipに圧縮するAutomatorクイックアクション。
 
